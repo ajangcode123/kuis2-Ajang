@@ -78,7 +78,7 @@ const songs = [
                   }
                   className="items-center bg-gradient-to-r from-green-400 via-teal-500 to-blue-500 text-white px-4 py-1 rounded-full hover:bg-green-700 transition-colors duration-300 font-music"
                 >
-                  Lihat Selengkapny
+                  informasi
                 </button>
                 <button
                   onClick={() =>
